@@ -1,4 +1,4 @@
-## Nicolas Moreau - Random Notes and thoughts
+## Nicolas Moreau - Random notes and thoughts
 
 This is the place where I will host some good reads, ideas, notes, and samples.
 
