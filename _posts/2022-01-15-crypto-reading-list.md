@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Crypto Reading list"
+title:  "Crypto Reading list (Ongoing document)"
+date: 2022-01-15
 ---
 
 # Crypto Reading list

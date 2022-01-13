@@ -1,6 +1,10 @@
-theme: jekyll-theme-minimal
 title: Nicolas Moreau's Blog
 description: Random Notes and thoughts
 logo: /assets/img/logo.jpg
 show_downloads: true
+twitter_username: nicolasmoreau
+github_username: nmoreau
+
+theme: jekyll-theme-minimal
+
 google_analytics:

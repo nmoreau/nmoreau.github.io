@@ -7,8 +7,20 @@ This is the place where I will host some good reads, ideas, notes, and samples.
 
 <!-- Index of Posts -->
   {% for post in site.posts %}
-   ## [{{ post.title }}]({{ post.url }})
+   ## [{{ post.title }}]({{ post.url }}) - {{post.date}}
   {% endfor %}
+
+   {% for post in site.posts %}
+  <article>
+    <h2>
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h2>
+    <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
+  </article>
+  
+{% endfor %}
 
 
 <!-- End index of Posts -->
