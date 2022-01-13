@@ -1,7 +1,8 @@
 https://www.markdownguide.org/cheat-sheet/
 
-
 https://jekyllrb.com/docs/posts/
+
+https://cloudcannon.com/community/jekyll-cheat-sheet/ 
 
 
 ### Markdown

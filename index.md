@@ -1,4 +1,4 @@
-# Nicolas Moreau Blog-ish Random notes and thoughts
+# Blog-ish Random notes and thoughts
 
 This is the place where I will host some good reads, ideas, notes, and samples.
 
@@ -6,9 +6,6 @@ This is the place where I will host some good reads, ideas, notes, and samples.
 
 
 <!-- Index of Posts -->
-  {% for post in site.posts %}
-   ## [{{ post.title }}]({{ post.url }}) - {{post.date}}
-  {% endfor %}
 
    {% for post in site.posts %}
   <article>
@@ -17,9 +14,9 @@ This is the place where I will host some good reads, ideas, notes, and samples.
         {{ post.title }}
       </a>
     </h2>
-    <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
+      <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
+      <br/>
   </article>
-  
 {% endfor %}
 
 
