@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Crypto Reading list (Ongoing document)"
+title:  "Crypto Reading list (living document)"
 date: 2022-01-15
 published: true
 ---
@@ -33,7 +33,13 @@ The key here is to understand the concepts behind : a distributed, permissionles
   - Rollups
     - Optimistic Rollup - "fraud proofs" (Arbitrum, Optimism)
     - ZK Rollups - "validity proofs": Zksync (Matterlabs), Starkware
-- StableCoins
-- DeFi
+
+## StableCoins
+
+## DeFi
+- Dex
+- Liquidity mining
+- Lending
+- Borrowing
 
 
