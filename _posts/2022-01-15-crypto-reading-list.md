@@ -45,8 +45,11 @@ This is based on hands on lab I have made and documented with samples [here](htt
 - [Patrick Alpha Youtube Video](https://youtu.be/M576WGiDBdQ?t=5368) - Excellent 14 hours video to become a Solidity (aka: Smart contract programming language) developer
 
 ## Wallets
+TODO
 
 ## StableCoins
+- Centralized StableCoins peed by Fiat : USDT (Tether), USDC (Circle/Coinbase), BUSD
+- Decentralized Stablecoins NOT pegged by Fiat : DAI, UST (Terra) which has some [fundamental flaws IMOs](https://www.semanticscholar.org/paper/SoK%3A-Decentralized-Finance-(DeFi)-Werner-Perez/e86439872d0f7ae3339d7215ce8729fb11949c1e)
 
 ## DeFi
 - Dex
