@@ -33,6 +33,16 @@ The key here is to understand the concepts behind : a distributed, permissionles
   - Rollups
     - Optimistic Rollup - "fraud proofs" (Arbitrum, Optimism)
     - ZK Rollups - "validity proofs": Zksync (Matterlabs), Starkware
+- ERC20 Token
+- NFTs : ERC721 and ERC1155 
+
+## Hands on Learning resources
+This is based on hands on lab I have made and documented with samples [here](https://github.com/nmoreau/ethereumsamples)
+
+- [Austin Griffith Eth.Build](https://sandbox.eth.build/) To understand the basics on how a Blockchain works and the cryptographic concept behind
+- [Patrick Alpha Youtube Video](https://youtu.be/M576WGiDBdQ?t=5368) - Excellent 14 hours video to become a Solidity (aka: Smart contract programming language) developer
+
+## Wallets
 
 ## StableCoins
 
