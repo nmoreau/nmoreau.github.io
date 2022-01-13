@@ -7,6 +7,9 @@ This is the place where I will host some good reads, ideas, notes, and samples.
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=plastic&logo=Twitter&logoColor=white)](https://twitter.com/nicolasmoreau)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)](https://github.com/nmoreau/)
 
+# include test 
+{% include badges.md %}
+{{ content }}
 
 <!-- Index of Posts -->
 <ul>
