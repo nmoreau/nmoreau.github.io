@@ -2,7 +2,7 @@
 layout: post
 title:  "Crypto Reading list (Ongoing document)"
 date: 2022-01-15
-published : true
+published: true
 ---
 
 I gather in this page some of the key readings I believe can be helpful to others. <br>
