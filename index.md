@@ -8,29 +8,18 @@ This is the place where I will host some good reads, ideas, notes, and samples.
 <!-- Index of Posts -->
 
    {% for post in site.posts %}
-  <article>
-    <h2>
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h2>
-      <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
-      <br/>
+    <article>
+        <h2>
+        <a href="{{ post.url }}">
+            {{ post.title }}
+        </a>
+        </h2>
         {{ post.excerpt }}
-  </article>
-{% endfor %}
-
-## Second attempt
-
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-       <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
-      {{ post.excerpt }}
-    </li>
-    <br>
+        <br/>
+        posted on <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
+        <br/>
+        <br/>
+    </article>
   {% endfor %}
-</ul>
 
 <!-- End index of Posts -->
