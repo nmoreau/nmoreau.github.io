@@ -32,7 +32,9 @@ The key here is to understand the concepts behind : a distributed, permissionles
   - Plasma
   - Rollups
     - Optimistic Rollup - "fraud proofs" (Arbitrum, Optimism)
-    - ZK Rollups - "validity proofs": Zksync (Matterlabs), Starkware
+    - ZK Rollups - "validity proofs": Zksync (Matterlabs), Starkware <br>
+    On Zero Knowledge Proofs, [here](https://github.com/matter-labs/awesome-zero-knowledge-proofs) is a great reading list maintained by Matterlabs
+    
 - ERC20 Token
 - NFTs : ERC721 and ERC1155 
 
