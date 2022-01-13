@@ -1,6 +1,6 @@
-# Blog-ish Random notes and thoughts
+# Blog-ish random notes and thoughts
 
-This is the place where I will host some good reads, ideas, notes, and samples.
+This is a place where I will host some good reads, ideas, notes, and samples.
 
 {% include badges.md %}
 
