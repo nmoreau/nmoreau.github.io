@@ -8,6 +8,15 @@ This is the place where I will host some good reads, ideas, notes, and samples.
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)](https://github.com/nmoreau/)
 
 
+<!-- Index of Posts -->
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+<!-- End index of Posts -->
 
 # Crypto Reading list
 ## Core Crypto Paper
