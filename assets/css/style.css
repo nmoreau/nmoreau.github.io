@@ -1,7 +1,6 @@
 ---
 ---
 
-@import "{{ site.theme }}";
 section {
     width:720px;
     float:right;
@@ -11,3 +10,4 @@ section {
     width:1024px;
     margin:0 auto;
   }
+@import "{{ site.theme }}";
