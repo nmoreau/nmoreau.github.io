@@ -16,10 +16,10 @@ This is the place where I will host some good reads, ideas, notes, and samples.
 
 ## Books about Crypto 
 These are a few book that read like thrillers and who provide good context on how this was build and the people behind.
-- [The Infinite Machine](https://www.amazon.com/Infinite-Machine-Crypto-hackers-Building-Internet-ebook/dp/B07X8HS2WC) by Camila Russo: A thriller like story of how an army of Crypto-hackers is Building the next Internet with Ethereum 
+- [The Infinite Machine](https://www.amazon.com/Infinite-Machine-Crypto-hackers-Building-Internet-ebook/dp/B07X8HS2WC) by Camila Russo <br> A thriller like story of how an army of Crypto-hackers is Building the next Internet with Ethereum 
 
-- [The Blocksize War](https://www.amazon.com/Infinite-Machine-Crypto-hackers-Building-Internet-ebook/dp/B07X8HS2WC) by Jonathan Bier : the fight inside the Bitcoin dev community to scale Bitcoin to make it a payment network, vs the more conservative vision as a store a value
-- [Kings of Crypto](https://www.amazon.com/Kings-Crypto-Startups-Cryptocurrency-Silicon-ebook/dp/B085TRJY8X) by Jeff John Roberts - The story of how Coinbase was created and how it became the biggest Crypto Exchange in the US
+- [The Blocksize War](https://www.amazon.com/Infinite-Machine-Crypto-hackers-Building-Internet-ebook/dp/B07X8HS2WC) by Jonathan Bier <br> The fight inside the Bitcoin dev community to scale Bitcoin to make it a payment network, vs the more conservative vision as a store a value
+- [Kings of Crypto](https://www.amazon.com/Kings-Crypto-Startups-Cryptocurrency-Silicon-ebook/dp/B085TRJY8X) by Jeff John Roberts <br> The story of how Coinbase was created and how it became the biggest Crypto Exchange in the US
 
 ## Domain Breakdown
 - Blockchain Tech and underlying principles

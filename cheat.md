@@ -1,6 +1,8 @@
-## Nicolas Moreau - Random Notes and thoughts
+https://www.markdownguide.org/cheat-sheet/
 
-This is the place where I will host some good reads, ideas, notes, and samples
+
+https://jekyllrb.com/docs/posts/
+
 
 ### Markdown
 
