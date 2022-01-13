@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "Crypto Reading list (living document)"
+description : ""
 date: 2022-01-15
+author: 
+- Nicolas Moreau
 published: true
 ---
 

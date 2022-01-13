@@ -3,6 +3,8 @@ layout: post
 title:  "Blockchain basics and tradeoffs"
 description : "A small summary of what a blockchain is, and a simple explanation on the scalability trilemma. "
 date: 2022-01-01
+author: 
+- Nicolas Moreau
 published: true
 ---
 
