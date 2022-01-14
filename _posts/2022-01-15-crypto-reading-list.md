@@ -9,6 +9,7 @@ published: true
 ---
 
 I gather in this page some of the key readings I believe can be helpful to others. <br>
+This structure also helped me navigate in that field. Not every item have links.<br> 
 Note this is a **living document**. Yes, this can be messy.
 
 ## Core Crypto Papers
