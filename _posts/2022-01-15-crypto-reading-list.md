@@ -24,6 +24,10 @@ These are a few book that read like thrillers and who provide good context on ho
 
 - [Kings of Crypto](https://www.amazon.com/Kings-Crypto-Startups-Cryptocurrency-Silicon-ebook/dp/B085TRJY8X) by Jeff John Roberts <br> The story of how Coinbase was created and how it became the biggest Crypto Exchange in the US
 
+## Critical thinking articles
+- [Proof-of-Stake and Stablecoins: A Blockchain Centralization Dilemma](https://www.lynalden.com/proof-of-stake/) by Lyn Alden
+- [An Economic Analysis of Ethereum](https://www.lynalden.com/ethereum-analysis/) by Lyn Alden
+
 ## Crypto Domain Breakdown
 I am trying here to break down some of the key aspects of Crypto
 - Blockchain Tech and underlying principles <br>
@@ -49,6 +53,8 @@ This is based on hands on lab I have made and documented with samples [here](htt
 - [Austin Griffith Eth.Build](https://sandbox.eth.build/) To understand the basics on how a Blockchain works and the cryptographic concept behind
 - [Patrick Alpha Youtube Video](https://youtu.be/M576WGiDBdQ?t=5368) - Excellent 14 hours video to become a Solidity (aka: Smart contract programming language) developer
 
+## TODO Below 
+
 ## Wallets
 TODO
 
@@ -62,4 +68,5 @@ TODO
 - Lending
 - Borrowing
 
-
+## Web3.js API Namespace
+https://web3js.readthedocs.io/en/v1.5.2/
