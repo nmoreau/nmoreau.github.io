@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why being a good writer matters"
-date: 2022-11-27
+date: 2022-11-27 
 description : "Capturing the reason why people should spend more time writing, and perfecting their writing skills"
 author: 
 - Nicolas Moreau
