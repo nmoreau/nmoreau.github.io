@@ -1,13 +1,12 @@
 ---
 layout: post
-title:  "Crypto Reading list (living document)"
+title:  "Crypto Reading list (Jan 2022)"
 description : ""
 date: 2022-01-15
 author: 
 - Nicolas Moreau
 published: true
 ---
-
 I gather in this page some of the key readings I believe can be helpful to others. <br>
 This structure also helped me navigate in that field. Not every item have links.<br> 
 Note this is a **living document**. Yes, this can be messy.
