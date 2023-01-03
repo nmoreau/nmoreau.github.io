@@ -6,8 +6,13 @@
     margin:0 auto;
   }
 section {
-    width:720px;
-    float:right;
+    width:unset;
+    float:unset;
     padding-bottom:50px;
+  }
+header {
+    width:unset;
+    float:unset;
+    position:unset;
   }
 @import "{{ site.theme }}";
