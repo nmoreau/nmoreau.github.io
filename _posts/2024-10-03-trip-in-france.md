@@ -2,7 +2,7 @@
 layout: post
 title:  "Trip in France planning ideas"
 date: 2024-10-03
-description : "Often times, people are traveling to France and asking /"any recommendation ?/". Here are some notes, thoughts and ideas."
+description : "Recommendations for a Trip in France"
 author: 
 - Nicolas Moreau
 published: true  
