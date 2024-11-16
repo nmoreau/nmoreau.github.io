@@ -12,8 +12,12 @@ In this post, I am trying to extract the essence of what makes blockchain simila
 
 ## Basic definition
 
-**A Permission less Distributed database** storing state. <br>
+**A Permissionless Decentralized Immutable Ledger  <br>
 Anyone can participate on the infra side (hosting), anyone can have a slot to maintain his/her own state.
+- Ledger : a data structure to store account state and transactions
+- Immutable : the state cannot be altered or attacked by a third party. The state can be verified,
+- Decentralized : the ledger is running on multiple distributed computers to read or write. It cannot be turned off.
+- Permissionless : anyone can become a user of the ledger and claim an account. You just need a Pub/Priv key pair
 
 ## Breaking down further
 
