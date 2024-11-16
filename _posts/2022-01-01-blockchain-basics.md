@@ -10,10 +10,8 @@ published: true
 
 In this post, I am trying to extract the essence of what makes blockchain similar and different from any other storage system. This is agnostic to any particular instantiation (Bitcoin, Ethereum, ...) and is a general definition.
 
-## Basic definition
+## Basic definition: a Permissionless Decentralized Immutable Ledger  <br>
 
-**A Permissionless Decentralized Immutable Ledger  <br>
-Anyone can participate on the infra side (hosting), anyone can have a slot to maintain his/her own state.
 - Ledger : a data structure to store account state and transactions
 - Immutable : the state cannot be altered or attacked by a third party. The state can be verified,
 - Decentralized : the ledger is running on multiple distributed computers to read or write. It cannot be turned off.
