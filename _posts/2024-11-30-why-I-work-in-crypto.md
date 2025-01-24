@@ -5,7 +5,7 @@ title:  "Why I work in Crypto, and why Crypto matters"
 description : "Collecting my thoughts on why I am here. "
 date: 2022-01-01
 author: 
-- Nicolas Moreau
+-  Moreau
 published: false
 ---
 
