@@ -1,11 +1,10 @@
-
 ---
 layout: post
 title:  "Why I work in Crypto, and why Crypto matters"
 description : "Collecting my thoughts on why I am here. "
 date: 2022-01-01
-author: Moreau
-published: false
+-  Moreau
+published: true  
 ---
 
 In this post, I am compiling the reason I work in that space, and why I believe it matters.
