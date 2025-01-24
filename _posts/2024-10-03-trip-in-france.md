@@ -4,7 +4,7 @@ title:  "Trip in France planning ideas"
 date: 2024-10-03
 description : "Recommendations for a Trip in France"
 author: 
-- Nicolas Moreau
+-  Moreau
 published: true  
 ---
 Often times, people are traveling to France and asking "any recommendation ?". 
