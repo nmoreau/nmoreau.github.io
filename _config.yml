@@ -1,8 +1,7 @@
-title: Nicolas Moreau's Blog
+title: nmoreau's Blog
 description: Random Notes and thoughts
 logo: /assets/img/logo.jpg
 show_downloads: true
-twitter_username: nicolasmoreau
 github_username: nmoreau
 
 theme: jekyll-theme-minimal
