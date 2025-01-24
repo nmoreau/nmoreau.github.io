@@ -4,7 +4,7 @@ title:  "Crypto Reading list (Jan 2022)"
 description : ""
 date: 2022-01-15
 author: 
-- Nicolas Moreau
+-  Moreau
 published: true
 ---
 I gather in this page some of the key readings I believe can be helpful to others. <br>
