@@ -43,7 +43,7 @@ My top of mind todo list includes
 ## Les Chateaux de la Loire et la Touraine
 This part (Touraine) is located on both side of the Loire valley where castles from the formers "Roi de France" are located
 - Take the train (TGV) to Tours than rent a Car in Tours.
-- Then tour les [Chateaux de la Loire](https://www.esprit-de-france.com/en/blog/itinerary-discovering-the-chateaux-de-la-loire). You can find many itineraries online and suggestions, as well as accommodation. This is the one time opportunity to book hotels which are literally some castles.
+- Then tour les [Chateaux de la Loire](https://loirelovers.fr/en/route-road-trip-castles-loire-itinerary-visit/). You can find many itineraries online and suggestions, as well as [accommodations](https://www.relaischateaux.com/us/destinations/routes-du-bonheur/a-journey-along-the-water-between-the-chateaux-of-the-loire-valley?destinations=loire-valley). This is the one time opportunity to book hotels which are literally some castles.
 - Excellent tables all around.
 
 ## Lyon Avignon, Marseille, Les Calanques
