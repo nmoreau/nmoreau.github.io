@@ -7,9 +7,6 @@ author:
 -  Moreau
 published: true  
 ---
-
-# Geocoding with BIP39
-
 While reading about [What3Words](https://what3words.com) recently, I was struck by the clever idea of encoding GPS coordinates into three memorable words. This immediately reminded me of BIP39 - the standard that encodes cryptographic keys into mnemonic 12 or 24 words. The concept of making complex data human-readable through simple words is powerful and can be applied to location.
 
 Traditional postal address systems attempt to solve this problem but have significant flaws - they require shared understanding between the physical location and the address notation, often failing in areas without established addressing infrastructure. Moreover, postal addresses don't provide the precision or universal coverage that GPS coordinates offer.
